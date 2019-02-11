@@ -78,7 +78,12 @@
     <Content Include="images\Wide310x150Logo.scale-200.png" />
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
-    <Content Include="page.html" />
+    <Content Include="U:\Users\742332\WEEK6\page1.html">
+      <Link>page1.html</Link>
+    </Content>
+    <Content Include="U:\Users\742332\WEEK6\page.html">
+      <Link>page.html</Link>
+    </Content>
     <None Include="WEEK61_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
