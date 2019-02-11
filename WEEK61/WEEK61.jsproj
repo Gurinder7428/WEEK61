@@ -78,6 +78,9 @@
     <Content Include="images\Wide310x150Logo.scale-200.png" />
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
+    <Content Include="U:\Users\742332\WEEK6\page2.html">
+      <Link>page2.html</Link>
+    </Content>
     <Content Include="U:\Users\742332\WEEK6\page1.html">
       <Link>page1.html</Link>
     </Content>
